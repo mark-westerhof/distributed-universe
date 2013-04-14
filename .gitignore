@@ -1,0 +1,5 @@
+*.deps
+*.o
+master
+worker
+robot_positions.txt
